@@ -8,10 +8,6 @@ This is a Python script which retrieves all message history between you and some
 2. [Python](https://www.python.org/downloads/)
 3. [Pandas](https://pypi.org/project/pandas/)
 
-```bash
-pip install foobar
-```
-
 ## Installation
 1. Clone/Download repo onto laptop
 ```bash
